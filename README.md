@@ -217,4 +217,4 @@ VPN Gate Client is a **full free version** of the software, providing all featur
 Start your secure browsing journey today! Download **VPN Gate Client** for free and experience the benefits of privacy and unrestricted access.
 
 ---
-**Last updated:** 2026-09-24 15:32:09 UTC
+**Last updated:** 2026-09-24 19:32:26 UTC
